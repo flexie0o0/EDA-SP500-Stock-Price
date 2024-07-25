@@ -6,6 +6,5 @@
 <h3>
   To run:
 </h3>
-<pre><code>
-  streamlit run main.py
+<pre><code>streamlit run main.py
 </code></pre>
